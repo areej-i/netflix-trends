@@ -1,6 +1,7 @@
 # netflix-trends
 
-This project analyzes the Kaggle Netflix Movies and TV Shows dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows uncovering trends related to content production, genres, countries, and release patterns.
+This project analyzes the Kaggle Netflix Movies and TV Shows dataset uncovering trends related to content production, genres, countries, and release patterns:  https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 The goal is to demonstrate skills in:
 - Data cleaning
 - Exploratory data analysis (EDA)
